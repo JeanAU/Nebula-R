@@ -1,24 +1,25 @@
+### Note : This unofficile Continuation of Nebula-R due to the original repo has been discontinued
 # Nebula-R
-本模组是 Nebula on the ship 的分支版本 目前只有中文
+This mod is Nebula on the ship  The branch version is currently only available in Chinese & English.
 
-模组不盈利，只做单纯兴趣爱好，bug修不修看时间
+The mod is not for profit, it's for pure hobby only, bug fixing depends on the time!
 
-部分贴图取自TheOtherRoles-GM-Haoming和SuperNewRoles
+Some textures are taken from TheOtherRoles-GM-Haoming and SuperNewRoles.
 
-本模组于1.0.2.7版本停止更新
+This mod was stopped in version 1.0.2.7 he will continue updating.
+To download the mod, please go to [release](https://github.com/JeanAU/Nebula-R/release/latest).
 
-下载模组请移步至[LTS仓库](https://github.com/ZsFabTest/Nebula-R-LTS)
-
-## 下载
+## downloading
 | Version | Among Us Version | Download |
 | ---------- | ---------- | ---------- |
+| 1.0.2.8    | 2023.7.12s | -----------|
 | 1.0.2.7 | 2022.3.28s | [Download](https://github.com/ZsFabTest/Nebula-R/releases/download/Nebula-R-Release-1.0.2.7/Nebula-R.1.0.2.7.zip)
 | 1.0.2.6 | 2022.3.28s | [Download](https://github.com/ZsFabTest/Nebula-R/releases/download/Nebula-R-Release-1.0.2.6/Nebula-R.1.0.2.6.zip)
 | 1.0.2.5 | 2022.3.28s | [Download](https://github.com/ZsFabTest/Nebula-R/releases/download/Nebula-R-Release-1.0.2.5/Nebula-R.1.0.2.5.zip)
 | 1.0.2.4 | 2022.3.28s | [Download](https://github.com/ZsFabTest/Nebula-R/releases/download/Nebula-R-Release-1.0.2.4/Nebula-R.1.0.2.4.zip)
 
 <details>
-<summary> 更多 </summary>
+<summary> more </summary>
 
 | Version | Among Us Version | Download |
 | ---------- | ---------- | ---------- |
@@ -34,10 +35,9 @@
 
 </details>
 
-注: 1.0.2.1是一个特殊版本,因为本来正常的窃时者不小心被我删了(删的很彻底),所以说找不回来了,就当图一乐玩玩
+Note: 1.0.2.1 is a special version, because the normal time stealer was accidentally deleted by me (deleted very thoroughly), so that can not be retrieved, as a picture of a fun to play!
 
-## 参考
-<details>
+## Reference
 
 1.Nebula on the ship - Dolly1016
 
@@ -47,11 +47,11 @@
 
 4.SuperNewRoles - ykundesu
 
-5.模组汉化借鉴 - 四个憨批汉化组
+5.Module Chinese borrowing - Four Bean Critters
 
 </details>
 
-## 新增特性介绍
+## New Roles...
 | Crewmate - 船员 | Impostor - 伪装者 | Neutral - 中立阵营 | Extra - 附加职业 |
 | -------------- | ----------------- | ------------------ | --------------- |
 | Holmes - 福尔摩斯 | Vampire - 吸血鬼 | Schrodinger's Cat - 薛定谔的猫 | Sick - 病人 |
@@ -78,147 +78,150 @@
 | ------------- | --------------- |
 | Game Master - 管理员 | Ghost Engineer - 灵魂工程师 |
 
-1.修改驱逐显示(增加了附加信息、附加职业信息)
+1. Modified eviction display (added additional information, additional occupation information)
 
-2.代理人现在可以通过做完任务来披露伪装者/中立阵营
+2. Agents can now disclose Pretender/Neutral camps by completing quests
 
-3.更改了LastImpostor的效果(变成赌怪)
+3. Changed LastImpostor's effect (turned into gambling monster)
 
-4.可以选择叛徒警长/叛徒正义裁决的击杀模式
+4. You can choose the kill mode of Renegade Sheriff/Renegade Justice Verdict
 
-5.更好的狐妖
 
-## 联系作者
+5.Better Fox Demon
+
+## Contact the author
 email:a1234567890001919@outlook.com
-
 discord:zjy090820#9247
 
 QQ:3419987538
 
-## 部分更新日志
+## Contact the author who will bring the mod to Latest versions of Among Us
+discord:jeanamongus
+
+## Part of the changelog
 
 ### 2023.6.28 v1.0.2.7 update
-最后一次更新
+Last update
 
-1.修复了反馈的bug
+1.Fixed feedback bugs
 
 ### 2023.6.10 v1.0.2.6 update
-1.修了一些以前堆积的bug,模组新职业基本稳定了
+1. Fixed some of the bugs that had piled up in the past, and the module's new profession is basically stable.
 
-2.新职业 病娇 情报师(情报师为LI时技能失效)
+2. New profession, "Sick Girl", "Intelligence Engineer" (the skill will not work when the intelligence engineer is LI).
 
-3.对以前的职业进行了小修改(不影响游玩)
+3. Small modifications to previous professions (does not affect the game)
 
 <details>
-<summary> 展开 </summary>
+<summary> be in full swing </summary>
 
 ### 2023.5.28 v1.0.2.5 update
-1.新职业 搬运工 缓速者
+1.new profession porter jogger
 
-2.将传送师拆分为正义和邪恶的传送师
+2. split teleporter into good and evil teleporters
 
 ### 2023.5.20 v1.0.2.5 update
-1.新职业
+1. New professions
 
-2.制作了新的模板(TCrewmate和TImpostor)
+2. made new templates (TCrewmate and TImpostor)
 
 ### 2023.5.13 v1.0.2.4 update
-1.对狐妖进行增强(歌姬狐妖)
+1. Enhanced Fox Demon (Singing Fox Demon)
 
-2.隐身人代码整理
+2. Organize the code of stealth person
 
-3.传送师对群体技能的抑制
+3. Teleporter's suppression of group skills.
 
-4.新职业
+4. New professions
 
-    1.连环杀手
+    1.Serial killer
 
-    2.恐怖分子
+    2.Terrorist
 
-5.修无人驱逐时物体贴图没有实化的bug
+5. Fixed the bug that object mapping is not actualized when no one is evicted.
 
-6.对驱逐显示进行了更细致的区分和更改
+6. Made more detailed distinctions and changes to the eviction display.
 
-7.修复巴浦洛夫之主无法招募的问题(滚回原来的版本awa)
+7. Fixed the problem that Lord Pavlov could not be recruited (rolled back to the original version).
 
-8.新的全体事件: 传送(对应override : AfterTeleport)
+8. New general event: Teleport (corresponds to override : AfterTeleport).
 
-9.叛徒/狼化的警察局长/正义的裁决者的特判(可设置)
+9. Traitor/wolfed police chief/righteous judge special judgment (can be set)
 
-10.修了传送师按钮汉化的问题
+10. Fixed the problem with the localization of the teleporter button.
 
-11.修了上一个版本的README.md版本错误的问题(V1.0.2.2写成v2.0.2.2)
+11. Fixed the problem of the wrong version of README.md in the previous version (v1.0.2.2 was written as v2.0.2.2).
 
-12.给刺客添加了目标的箭头
+12. Added target arrows for assassins.
 
-13.修改了LastImpostor的机制(不管什么红狼职业现在都可以拿到LastImpostor附加,但有特殊UI的职业用不了)
+13. Modified LastImpostor mechanism (no matter what red wolf profession can now get LastImpostor attached, but professions with special UI can't use it).
 
-14.逃逸者现在使用技能会在原地留下痕迹
+14. Escapees will now leave traces of their skills in their original location.
 
-15.修了调酒师的小问题
+15. Fixed a small problem with the bartender.
 
-16.叛徒警长可以乱杀(可设置)
+16. Renegade sheriffs can be killed indiscriminately (can be set up).
 
-17.任何假人(Debug模式)终将绳之以法
+17. Any dummy (Debug mode) will be brought to justice eventually
 
 ### 2023.5.6 v1.0.2.2 update
-1.克服了一些代码上的问题
+1. overcome some code problems
 
-2.修了一点小问题(屎山代码堆上去)
+2. Fixed a little problem (shit mountain of code piling up)
 
-3.为管道类职业作了充足准备(写好了VentManager框架)
+3. Prepared well for the pipeline class career (wrote the VentManager framework)
 
-4.和Nebula屎山代码斗智斗勇
+4. battled with Nebula shit mountain code
 ### 2023.4.27 update
-1.新增职业 附加豺狼 幸运儿 摩达石神 灵魂工程师 快枪手
+1. New professions added: Jackal, Lucky, Moda, Soul Engineer, Rifleman.
 
-2.巴浦洛夫的狗当更换职业时会被判定为狗已经死亡(可以再次招募了)
+2. Pavlov's dog will be recognized as dead when changing professions (can be recruited again).
 
-3.日常借鉴SuperNewRoles
+3. Daily borrowed from SuperNewRoles.
 ### 2023.4.21 update
-1.新增职业 调酒师(其实就是面包师)
+1. Added a new profession, Bartender (actually a baker).
 
-2.重新加入换票师(分为正义的换票师和邪恶的换票师)
+2. Re-added Ticket Exchangers (divided into Good Ticket Exchangers and Evil Ticket Exchangers).
 
-3.微调了裁决者的按键(避免出现按不动的现象)
+3. Fine-tuned the buttons of the Judge (to avoid the phenomenon of not being able to press the buttons).
 
-4.微调了巴浦洛夫的狗和莫兰的生成(防止自己生成)
+4. Fine-tuned the generation of Pavlov's dog and Moran (to prevent self-generation)
 
-5.再次调整驱逐显示(ExileControllPatch 显示所有附加职业+调酒师)
+5. Re-adjusted eviction display (ExileControllPatch shows all additional professions + bartender)
 
-6.微调会议投票(MeetingPatch 主要为了换票师)
+6. Fine-tuned meeting voting (MeetingPatch mainly for vote changers)
 ### 2023.4.15 update
-1.新增职业...
+1.Added new professions...
 
-2.修复了职业确认的问题
+2. Fixed the problem of profession confirmation
 
-3.修复了忽略巴浦洛夫团队的问题
+3. Fixed the problem of ignoring Pavlov's team.
 
-4.独裁者现在不会显示击杀动画
+4. Dictator now doesn't show kill animations
 
-5.重新分配职业选项界面(一个栏目不够放了)
+5. Redistributed the career options screen (one column wasn't enough room)
 
-6.不要说我乱用英文，原模组有一个伪装者职业叫行刑者，中立行刑者只能用代行刑者了
+6. don't say I'm messing with the English language, the original module has a Pretender profession called Executioner, Neutral Executioner can only be used as a substitute Executioner
 ### 2023.4.9 update to Among Us 2023.3.28, Nebula On The Ship V2.3.1
-1.新增职业
+1. Added new professions
 
-2.改了一堆小问题(我故意保留了一部分bushi)
+2. Fixed a bunch of minor issues (I kept some bushi on purpose)
 
-3.应付暗改(更新就更新，au天天暗改)
+3. coped with dark changes (update on update, au daily dark changes)
 ### 2023.3.25 update to Among Us 2023.2.28, Nebula On The Ship V2.2.2
-1.移除部分改动(其实是忘记改了什么懒得动了)
+1. Remove some changes (actually, I forgot what I changed and was too lazy to move)
 
-2.将原生模组Nebula On The Ship的新内容移植和统一
+2. ported and unified the new content of the native module Nebula On The Ship.
 
-3.添加了一些新职业，引用了是个憨批汉化组的最新汉化
+3. Added some new professions, quoting the latest Chineseization of a Chinese group.
 
-4.新的依赖包(你不能在原Nebula-R模组安装基础上改动)
+4. New dependency packages (you can't change on the original Nebula-R module installation).
 
-</details>
+</details
 
-# 多语言样式声明
-<details>
-<summary> 展开 </summary>
+# Multi-language style declarations
+<details
+<summary> Expand </summary>
 
 ## SChinese
 这些模组不隶属于 Among Us 或 Innersloth LLC，其包含的内容也未得到 Innersloth LLC 的认可或以其他方式赞助。此处包含的部分材料是Innersloth LLC的财产。
